@@ -10,6 +10,7 @@ public class Main {
                 .id(1L)
                 .color("Blue")
                 .model(ModelHouseEnum.CLASSIC)
+                
                 .height(100.3)
                 .weight(100.2)
                 .doors(150)
