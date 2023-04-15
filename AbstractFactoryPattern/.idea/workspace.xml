@@ -5,31 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f2a6ab95-526a-484f-8730-03cc1b19108e" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/AbstractFactory/AbstractFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/AbstractFactory/AbstractFactory.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/AbstractFactory/ICommandAbstractFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/AbstractFactory/ICommandAbstractFactory.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/AbstractFactory/IConnectionAbstractFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/AbstractFactory/IConnectionAbstractFactory.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/CommandFactory/CommandFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/CommandFactory/CommandFactory.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/CommandFactory/CopyCommand.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/CommandFactory/CopyCommand.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/CommandFactory/CutCommand.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/CommandFactory/CutCommand.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/CommandFactory/ICommand.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/CommandFactory/ICommand.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ConnectionFactory/ConnectionFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ConnectionFactory/ConnectionFactory.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ConnectionFactory/IConnection.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ConnectionFactory/IConnection.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ConnectionFactory/MySQLConnectionImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ConnectionFactory/MySQLConnectionImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ConnectionFactory/PostgreSQLConnectionImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ConnectionFactory/PostgreSQLConnectionImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BuilderPattern/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BuilderPattern/src/main/java/builder/Builder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BuilderPattern/src/main/java/builder/Director.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BuilderPattern/src/main/java/builder/HouseBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BuilderPattern/src/main/java/model/House.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BuilderPattern/src/main/java/model/ModelHouseEnum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/MainFactoryPattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/MainFactoryPattern.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/MainFactoryPattern.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/MainFactoryPattern.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FactoryPattern/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FactoryPattern/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FactoryPattern/.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FactoryPattern/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FactoryPattern/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FactoryPattern/target/classes/ConnectionFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FactoryPattern/target/classes/IConnection.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FactoryPattern/target/classes/MainFactoryPattern.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FactoryPattern/target/classes/MySQLConnectionImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FactoryPattern/target/classes/PostgreSQLConnectionImpl.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +22,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -61,7 +48,11 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/57322/Desktop/PersonalFolder/design-patterns/AbstractFactoryPattern",
+    "last_opened_file_path": "C:/Users/57322/Desktop/PersonalFolder/P1/back/gestion-horaria/gestion-horaria-back",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -88,6 +79,11 @@
       <option name="presentableId" value="Default" />
       <updated>1674764581674</updated>
       <workItem from="1674764582889" duration="243000" />
+      <workItem from="1674774710844" duration="22000" />
+      <workItem from="1675177949722" duration="2390000" />
+      <workItem from="1675271999554" duration="2779000" />
+      <workItem from="1675434778384" duration="908000" />
+      <workItem from="1675698369967" duration="16000" />
     </task>
     <servers />
   </component>
